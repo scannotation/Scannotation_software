@@ -6,7 +6,7 @@ This software combines several MS1 chemical predictors: m/z, retention times, is
 Scannotation was developed on Windows 10 and tested on both Windows and on a Mac computer in a Windows virtual machine.
 
 ## Tutorial
-Please read our [tutorial](https://github.com/scannotation/Scannotation_software/blob/master/Scannotation_3.6-tutorial.docx) to get started with Scannotation.
+Please read our [tutorial](https://github.com/scannotation/Scannotation_software/blob/master/Scannotation-tutorial.docx) to get started with Scannotation.
 
 ## Technical support
 If you encounter any problems, please contact the developers at this address: scannotation@ehesp.fr
