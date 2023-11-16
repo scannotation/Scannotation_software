@@ -8,5 +8,11 @@ Scannotation was developed on Windows 10 and tested on both Windows and on a Mac
 ## Tutorial
 Please read our [tutorial](https://github.com/scannotation/Scannotation_software/blob/master/Scannotation-tutorial.docx) to get started with Scannotation.
 
+## Publication
+For more information, please follow this link https://doi.org/10.1021/acs.est.3c04764 to read the article about Scannotation published in "Environmental Science & Technology".
+
+## Teaser
+A teaser introducing Scannotation will be available soon.
+
 ## Technical support
 If you encounter any problems, please contact the developers at this address: scannotation@ehesp.fr
