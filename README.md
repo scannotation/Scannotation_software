@@ -15,4 +15,4 @@ For more information, please follow this link https://doi.org/10.1021/acs.est.3c
 A teaser introducing Scannotation will be available soon.
 
 ## Help and Technical support
-If you encounter any problems, please contact the developers at this address: scannotation@ehesp.fr or post your issue on this GitHub repository based on the file "[Issue_template.md](https://github.com/scannotation/Scannotation_software/blob/master/Issue_template.md)".
+If you encounter any problems, please contact the developers at this address: scannotation@ehesp.fr or post your issue on this GitHub repository based on the file " [Issue_template.md](https://github.com/scannotation/Scannotation_software/blob/master/Issue_template.md) ".
