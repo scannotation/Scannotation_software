@@ -12,7 +12,7 @@ Please read our [tutorial](https://github.com/scannotation/Scannotation_software
 For more information, please follow this link https://doi.org/10.1021/acs.est.3c04764 to read the article about Scannotation published in "Environmental Science & Technology".
 
 ## Teaser
-A teaser introducing Scannotation is available on [Youtube](https://youtu.be/0YJStsZWcBc).
+A teaser introducing Scannotation is available on [Youtube](https://youtu.be/1MWpKpN_sJM).
 
 ## Help and Technical support
 If you encounter any problems, please contact the developers at this address: scannotation@ehesp.fr or post your issue on this GitHub repository based on the file "[Issue_template.md](https://github.com/scannotation/Scannotation_software/blob/master/Issue_template.md)".
