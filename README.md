@@ -9,7 +9,7 @@ Scannotation was developed on Windows 10 and tested on both Windows and on a Mac
 Please read our [tutorial](https://github.com/scannotation/Scannotation_software/blob/master/Scannotation-tutorial.docx) to get started with Scannotation.
 
 ## Publication
-For more information, you can read the [article about Scannotation](https://doi.org/10.1021/acs.est.3c04764) published in "Environmental Science & Technology".
+For more information, you can read the [article](https://doi.org/10.1021/acs.est.3c04764) about Scannotation published in "Environmental Science & Technology".
 
 ## Teaser
 A [video](https://www.ehesp.fr/en/2023/11/30/chemical-exposome-ehesp-school-of-public-health-develops-and-releases-the-scannotation-open-access-software/) introducing Scannotation is now available.
